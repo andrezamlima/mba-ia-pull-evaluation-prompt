@@ -141,7 +141,7 @@ A média final estável de **0.84** foi alcançada após **5 iterações** de re
 ### 1. Clone e ambiente virtual
 
 ```bash
-git clone https://github.com/<seu-usuario>/mba-ia-pull-evaluation-prompt.git
+git clone https://github.com/andrezamlima/mba-ia-pull-evaluation-prompt
 cd mba-ia-pull-evaluation-prompt
 
 # Criar e ativar ambiente virtual
